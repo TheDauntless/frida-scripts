@@ -110,3 +110,123 @@
 [submodule "kittynighthawk-frida-scripts"]
 	path = kittynighthawk-frida-scripts
 	url = https://github.com/KittyNighthawk/frida-scripts
+[submodule "lasting-yang-frida_hook_libart.git"]
+	path = lasting-yang-frida_hook_libart.git
+	url = https://github.com/lasting-yang/frida_hook_libart.git
+[submodule "siyujie-OkHttpLogger-Frida.git"]
+	path = siyujie-OkHttpLogger-Frida.git
+	url = https://github.com/siyujie/OkHttpLogger-Frida.git
+[submodule "r0ysue-r0tracer.git"]
+	path = r0ysue-r0tracer.git
+	url = https://github.com/r0ysue/r0tracer.git
+[submodule "hluwa-FRIDA-DEXDump.git"]
+	path = hluwa-FRIDA-DEXDump.git
+	url = https://github.com/hluwa/FRIDA-DEXDump.git
+[submodule "FreaxW-frida-repos.git"]
+	path = FreaxW-frida-repos.git
+	url = https://github.com/FreaxW/frida-repos.git
+[submodule "hluwa-Wallbreaker.git"]
+	path = hluwa-Wallbreaker.git
+	url = https://github.com/hluwa/Wallbreaker.git
+[submodule "FreaxW-FridaContainer.git"]
+	path = FreaxW-FridaContainer.git
+	url = https://github.com/FreaxW/FridaContainer.git
+[submodule "FreaxW-r0capture.git"]
+	path = FreaxW-r0capture.git
+	url = https://github.com/FreaxW/r0capture.git
+[submodule "FreaxW-arida.git"]
+	path = FreaxW-arida.git
+	url = https://github.com/FreaxW/arida.git
+[submodule "FreaxW-frida-unpack.git"]
+	path = FreaxW-frida-unpack.git
+	url = https://github.com/FreaxW/frida-unpack.git
+[submodule "Kr1s77-ApkUnpackByFrida.git"]
+	path = Kr1s77-ApkUnpackByFrida.git
+	url = https://github.com/Kr1s77/ApkUnpackByFrida.git
+[submodule "GuoQiang1993-Frida-Apk-Unpack.git"]
+	path = GuoQiang1993-Frida-Apk-Unpack.git
+	url = https://github.com/GuoQiang1993/Frida-Apk-Unpack.git
+[submodule "hluwa-ZenTracer.git"]
+	path = hluwa-ZenTracer.git
+	url = https://github.com/hluwa/ZenTracer.git
+[submodule "chame1eon-jnitrace.git"]
+	path = chame1eon-jnitrace.git
+	url = https://github.com/chame1eon/jnitrace.git
+[submodule "FreaxW-AndroidSecurityStudy.git"]
+	path = FreaxW-AndroidSecurityStudy.git
+	url = https://github.com/FreaxW/AndroidSecurityStudy.git
+[submodule "FreaxW-frida-all-in-one.git"]
+	path = FreaxW-frida-all-in-one.git
+	url = https://github.com/FreaxW/frida-all-in-one.git
+[submodule "dweinstein-awesome-frida.git"]
+	path = dweinstein-awesome-frida.git
+	url = https://github.com/dweinstein/awesome-frida.git
+[submodule "lasting-yang-frida_dump.git"]
+	path = lasting-yang-frida_dump.git
+	url = https://github.com/lasting-yang/frida_dump.git
+[submodule "iddoeldor-frida-snippets.git"]
+	path = iddoeldor-frida-snippets.git
+	url = https://github.com/iddoeldor/frida-snippets.git
+[submodule "FreaxW-Awesome--Frida-UI.git"]
+	path = FreaxW-Awesome--Frida-UI.git
+	url = https://github.com/FreaxW/Awesome--Frida-UI.git
+[submodule "Pr0214-findhash.git"]
+	path = Pr0214-findhash.git
+	url = https://github.com/Pr0214/findhash.git
+[submodule "Pr0214-trace_natives.git"]
+	path = Pr0214-trace_natives.git
+	url = https://github.com/Pr0214/trace_natives.git
+[submodule "noobpk-frida-android-hook.git"]
+	path = noobpk-frida-android-hook.git
+	url = https://github.com/noobpk/frida-android-hook.git
+[submodule "dqzg12300-fridaUiTools.git"]
+	path = dqzg12300-fridaUiTools.git
+	url = https://github.com/dqzg12300/fridaUiTools.git
+[submodule "SeeFlowerX-frida-protobuf.git"]
+	path = SeeFlowerX-frida-protobuf.git
+	url = https://github.com/SeeFlowerX/frida-protobuf.git
+[submodule "CreditTone-hooker.git"]
+	path = CreditTone-hooker.git
+	url = https://github.com/CreditTone/hooker.git
+[submodule "maiyao1988-ExAndroidNativeEmu.git"]
+	path = maiyao1988-ExAndroidNativeEmu.git
+	url = https://github.com/maiyao1988/ExAndroidNativeEmu.git
+[submodule "TTDemo-frida_ssl_logger.git"]
+	path = TTDemo-frida_ssl_logger.git
+	url = https://github.com/TTDemo/frida_ssl_logger.git
+[submodule "Simp1er-AndroidSec.git"]
+	path = Simp1er-AndroidSec.git
+	url = https://github.com/Simp1er/AndroidSec.git
+[submodule "lyxhh-lxhToolHTTPDecrypt.git"]
+	path = lyxhh-lxhToolHTTPDecrypt.git
+	url = https://github.com/lyxhh/lxhToolHTTPDecrypt.git
+[submodule "haidragon-study_frida.git"]
+	path = haidragon-study_frida.git
+	url = https://github.com/haidragon/study_frida.git
+[submodule "apkunpacker-FridaScripts.git"]
+	path = apkunpacker-FridaScripts.git
+	url = https://github.com/apkunpacker/FridaScripts.git
+[submodule "asmjmp0-fridaMemoryAccessTrace.git"]
+	path = asmjmp0-fridaMemoryAccessTrace.git
+	url = https://github.com/asmjmp0/fridaMemoryAccessTrace.git
+[submodule "sereneblue-frida-omni.git"]
+	path = sereneblue-frida-omni.git
+	url = https://github.com/sereneblue/frida-omni.git
+[submodule "interference-security-frida-scripts.git"]
+	path = interference-security-frida-scripts.git
+	url = https://github.com/interference-security/frida-scripts.git
+[submodule "KittyNighthawk-frida-scripts.git"]
+	path = KittyNighthawk-frida-scripts.git
+	url = https://github.com/KittyNighthawk/frida-scripts.git
+[submodule "robre-frida-scripts.git"]
+	path = robre-frida-scripts.git
+	url = https://github.com/robre/frida-scripts.git
+[submodule "seemoo-lab-frida-scripts.git"]
+	path = seemoo-lab-frida-scripts.git
+	url = https://github.com/seemoo-lab/frida-scripts.git
+[submodule "t0thkr1s-frida.git"]
+	path = t0thkr1s-frida.git
+	url = https://github.com/t0thkr1s/frida.git
+[submodule "oleavr-frida-agent-example"]
+	path = oleavr-frida-agent-example
+	url = https://github.com/oleavr/frida-agent-example.git
